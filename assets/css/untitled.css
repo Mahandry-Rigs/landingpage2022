@@ -1,0 +1,42 @@
+.fab.fa-facebook-square:hover {
+  /*font-size: 35px;*/
+  /*padding-right: 10px;*/
+  /*padding-left: 10px;*/
+  color: var(--bs-blue);
+  cursor: pointer;
+}
+
+.fab.fa-facebook-square {
+  font-size: 35px;
+  padding-right: 10px;
+  padding-left: 10px;
+  color: var(--bs-gray-400);
+}
+
+.fab.fa-twitter:hover {
+  color: #1DA1F2;
+  cursor: pointer;
+}
+
+.fab.fa-twitter {
+  color: var(--bs-gray-400);
+}
+
+.fab.fa-youtube {
+  color: var(--bs-gray-400);
+}
+
+.fab.fa-youtube:hover {
+  color: var(--bs-red);
+  cursor: pointer;
+}
+
+.fab.fa-google-plus-square:hover {
+  color: var(--bs-red);
+  cursor: pointer;
+}
+
+.fab.fa-google-plus-square {
+  color: var(--bs-gray-400);
+}
+
